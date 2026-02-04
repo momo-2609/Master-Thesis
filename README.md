@@ -1,4 +1,4 @@
-# Master-Thesis: Safe Bayesian Optimization for Industrial Compressor Stations
+# Master-Thesis: Constrained Bayesian Optimization for Industrial Compressor Stations
 
 ## Overview
 
