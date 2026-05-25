@@ -1,7 +1,7 @@
 # Constrained Bayesian Optimization for Safe Load-Sharing Management of Compressor Stations
 
 **Degree:** Master Thesis — ETH Zurich  
-**Institute:** Institute for Dynamic Systems and Control (IDSC)  
+**Institute:** Institute for Dynamic Systems and Control (IDSC)  / Autonomous Industrial Systems Lab (AISL)
 **Author:** Mohamed Becha  
 **Supervisors:** Prof. Dr. Melanie Zeilinger, Prof. Dr. Johannes Köhler, Dr. Mehmet Mercangöz  
 **Date:** March 2026
