@@ -6,7 +6,7 @@
 **Supervisors:** Prof. Dr. Melanie Zeilinger, Prof. Dr. Johannes Köhler, Dr. Mehmet Mercangöz  
 **Date:** March 2026
 
-> Parts of this thesis have been prepared for submission to the *Applied Energy Journal* under the title "Real-Time Constrained Bayesian Optimization for Safety-Aware Load-Sharing in Compressor Stations" (Dong, Becha, Köhler, Zagorowska, Mercangöz).
+> This thesis constitutes the basis of a paper published in Computers and Chemical Engineering, check here: https://www.sciencedirect.com/science/article/pii/S0098135426003169
 
 ---
 
